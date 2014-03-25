@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7A0A30F7-B78D-4DE9-B259-ED97244E4FE9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mac_leveldb_test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC86B117-FF85-4EB7-9FF4-29E6893D9B68</key>
+		<string>https://code.google.com/p/leveldb/</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>helpers/mac_leveldb_test/mac_leveldb_test.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC86B117-FF85-4EB7-9FF4-29E6893D9B68</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://code.google.com/p/leveldb/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC86B117-FF85-4EB7-9FF4-29E6893D9B68</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC86B117-FF85-4EB7-9FF4-29E6893D9B68</string>
+			<key>IDESourceControlWCCName</key>
+			<string>leveldb</string>
+		</dict>
+	</array>
+</dict>
+</plist>
